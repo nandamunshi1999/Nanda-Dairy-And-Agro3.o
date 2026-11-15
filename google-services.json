@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495413296437",
+    "project_id": "nanda-dairy-and-agro-3-808f6",
+    "storage_bucket": "nanda-dairy-and-agro-3-808f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495413296437:android:037ebe64b2906f7a91a07c",
+        "android_client_info": {
+          "package_name": "com.nandadairy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdYsDOF-fodZHX205xp0g9hoNClY7WN04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
