@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Nanda-Dairy-And-Agro"
+rootProject.name = "Nanda-Dairy-And-Agro3.o"
 include ':app'
